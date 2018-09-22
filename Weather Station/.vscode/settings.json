@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/frekkel/.platformio/penv/bin:/home/frekkel/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "cmath": "cpp"
+    }
+}
